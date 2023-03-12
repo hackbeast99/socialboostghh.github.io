@@ -1,0 +1,38 @@
+body{
+         background-color: rgb(11, 16, 59);
+         text-align: center;
+}
+#head{
+  font-size: 50px;
+  font-weight: 600;
+  display: block;
+}
+p{
+  font-size: 30px;
+  font-weight: bold;
+  color: rgb(14, 136, 250);
+}
+big, span{
+  color: white;
+}
+#num{
+  font-size: 24px;
+  font-weight: bold;
+}
+sub{
+  color: rgb(14, 136, 250);
+}
+a{
+font-size: 50px;
+color: white;
+
+}
+li a:hover{
+  color: rgb(6, 255, 6);
+}
+
+ 
+li{
+  font-size: 24px;
+  color: rgb(6, 255, 6);
+}
